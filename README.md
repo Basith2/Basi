@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/Basith2">Basi</a> to make it publ
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farhan-dqz/Julie-Mwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
 ### The Hard Method
 ```js
