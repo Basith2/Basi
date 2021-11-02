@@ -69,7 +69,6 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GyR4376DREQJu1z1oThoMu)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Basith2&repo=malaak&theme=nightowl)](https://github.com/Basith2/Malaak-green)
   </div>
     
 ### ⚠️ Warning! 
