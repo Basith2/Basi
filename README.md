@@ -36,7 +36,7 @@ $ git clone https://github.com/Basith2/malaak
 $ cd malaak
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node malaak.js
 ```
       
 ```js
@@ -44,7 +44,7 @@ SETUP
 $ git clone https://github.com/Basith2/malaak
 $ cd JulieMwol
 $ npm i
-$ node julie.js
+$ node malaak.js
 ```
 
 ----
