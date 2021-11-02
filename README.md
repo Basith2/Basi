@@ -16,24 +16,24 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Basith2/malaak&title=Profile%20Views)
 
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Basith2/malaak) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Basith2/malaak)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/farhan-dqz/Julie-Mwol
-$ cd Julie-Mwol
+$ git clone https://github.com/Basith2/malaak
+$ cd malaak
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -41,7 +41,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github.com/Basith2/malaak
 $ cd JulieMwol
 $ npm i
 $ node julie.js
