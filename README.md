@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Basith2">Basi</a> to make it public
     <br>
        | © |
         Reserved |
@@ -52,8 +52,8 @@ $ node malaak.js
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Basith2/followers">
+<img src="https://img.shields.io/github/repo-size/Basith2/malaak?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
