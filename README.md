@@ -82,7 +82,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Basith](https://github.com/Basith2.png?size=10)](https://github.com/Basith2) |
+  [![Basith](https://github.com/Basith2.png?size=75)](https://github.com/Basith2) |
 |---|
 [Basith](https://github.com/Basith2)
 Developer, Base, Bug Fixes, Modules
