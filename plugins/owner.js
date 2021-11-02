@@ -12,7 +12,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*JulieMwol by Farhan_Dqz*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*JulieMwol by Basith http://wa.me/918590882253?text=Can%20you%20help%20bro*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n---------------------', MessageType.text);
